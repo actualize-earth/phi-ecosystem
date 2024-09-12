@@ -1,1 +1,1 @@
-# phi-ecosystem
+# PHI Ecosystem
